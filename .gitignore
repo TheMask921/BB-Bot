@@ -1,3 +1,4 @@
 token.json
-apikey.json
-url.json
+CLIENT_ID.json
+CLIENT_SECRET.json
+git.py
